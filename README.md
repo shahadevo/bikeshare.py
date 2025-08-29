@@ -1,19 +1,24 @@
-# Bikeshare Data Analysis 🚴‍♀️
+# Project: Udacity Data Science Git Project
 
-## Project Overview
-This project explores bikeshare data for three major US cities: **Chicago, New York City, and Washington, DC**.  
-The goal is to provide insights about:
-- Popular times of travel (month, day, hour).
-- Popular stations and trips.
-- Trip duration statistics.
-- User information (user types, gender, birth years).
+## Student Name
+Shahad Alotaibi
 
-The project was built as part of the Udacity Nanodegree program to practice **Python, Pandas, and Git/GitHub workflows**.
+## Project Description
+This project is part of the Udacity Data Science Nanodegree. 
+It demonstrates how to properly use Git and GitHub to manage and submit projects, including:
+- Forking a repository
+- Cloning it locally
+- Creating branches for documentation and code changes
+- Committing and pushing changes
+- Merging branches
+- Keeping the fork updated with the upstream repository
 
----
+## Repository URL
+[My Fork on GitHub]( https://github.com/shahadevo/bikeshare.py.git )
 
-## Files in Repository
-- **bikeshare.py** → Main Python script containing the program logic.
-- **chicago.csv**, **new_york_city.csv**, **washington.csv** → Data files (not uploaded here, excluded with `.gitignore`).
-- **README.md** → Project documentation.
-- **.gitignore** → Ensures large CSV files are not tracked in Git.
+## Sections Completed
+1. Repository Setup
+2. Documentation Improvement
+3. Code Refactoring
+4. Branch Merging
+5. Fork Update
